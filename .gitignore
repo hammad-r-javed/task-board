@@ -1,3 +1,7 @@
+IGNORE/
+elm-stuff
+repl-temp-*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
